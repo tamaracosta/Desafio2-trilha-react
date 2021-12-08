@@ -8,6 +8,8 @@
 - Exibição de mensagens de erro;
 - Entre outros.
 
+https://user-images.githubusercontent.com/75817559/145272214-00b7ad8d-61fd-45a2-b4de-f321d1abd14e.mp4
+
 ## 👩‍🔧Tecnologias e ferramentas utilizadas
 * React
 * TypeScript
@@ -16,6 +18,10 @@
 * Jest
 * Axios
 * Polished
+
+
+
+
 
 
 
