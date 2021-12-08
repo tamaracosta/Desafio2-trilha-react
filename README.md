@@ -1,4 +1,4 @@
-## 🎯 Essa será uma aplicação onde o principal objetivo é criar um hook de carrinho de compras. Desafio proposto e construído junto com a trilha React oferecido pelo Rocketseat.
+#### 🎯 Essa será uma aplicação onde o principal objetivo é criar um hook de carrinho de compras. Desafio proposto e construído junto com a trilha React oferecido pelo Rocketseat.
 
 - Adicionar um novo produto ao carrinho;
 - Remover um produto do carrinho;
